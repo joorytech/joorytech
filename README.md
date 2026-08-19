@@ -37,13 +37,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joory-almohaimeed?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/joorysa113325?s=11" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://github.com/joorytech" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -52,7 +52,16 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,vscode,vercel,figma,gamemaker,unity" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/-300344?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker" />
+  <img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
 <hr>
