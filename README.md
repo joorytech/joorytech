@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://x.com/joorysa113325?s=11" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+    <img src="https://skillicons.dev/icons?i=x" alt="X" />
   </a>
   <a href="https://github.com/joorytech" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
