@@ -2,14 +2,10 @@
   <img src="header.jpg" alt="Header" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Jory</h1>
+<h1 align="center">Joory</h1>
 
 <p align="center">
-  <b>2D Game Developer & Programmer</b>
-</p>
-
-<p align="center">
-  Building 2D pixel platformer games and crafting mechanics using GameMaker Studio.
+  <b>Computer Science Student & Developer</b>
 </p>
 
 <hr>
@@ -20,13 +16,13 @@
   <tr>
     <td width="60%">
       <p>
-        <b>Jory</b> here — passionate about game physics, state machines, and clean architecture.
+        I’m <b>Joory</b>, a Computer Science student passionate about technology and software development. I enjoy turning ideas into real projects and exploring different areas of tech to discover where I can create the most impact.
       </p>
       <p>
-        Currently focusing on player movement dynamics, tilemap collisions, double jumping mechanics, and expanding my game portfolio on GitHub.
+        I’m particularly interested in web and application development, and I believe the best way to learn is by building, experimenting, and learning from every experience.
       </p>
       <p>
-        My goal is simple: write clean GML scripts, build reliable mechanics, and create engaging pixel platformer experiences that last.
+        I’m always looking to grow my skills, build meaningful projects, and turn the ideas in my head into something real that people can use.
       </p>
     </td>
     <td width="40%" align="center">
@@ -40,7 +36,15 @@
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/joorytech"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/joory-almohaimeed?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/joorysa113325?s=11" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://github.com/joorytech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <hr>
@@ -48,11 +52,16 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GameMaker-300344?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker">
-  <img src="https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="GML">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/GameMaker-300344?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
 
 <hr>
