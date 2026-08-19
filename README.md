@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Header" width="1200" height="675">
+  <img src="header.jpg" alt="Header" width="100%">
 </p>
 
 <h1 align="center">Joory</h1>
